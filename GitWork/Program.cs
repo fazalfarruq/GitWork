@@ -9,6 +9,7 @@ namespace GitWork
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World Again!");
             Console.WriteLine("Beautiful World");
+            Console.WriteLine("Beautiful World Again");
         }
     }
 }
